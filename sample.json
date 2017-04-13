@@ -14,14 +14,14 @@
     }
   },
   "ignore": {
+    "all": [
+      "folder2/"
+    ],
     "platform": {
       "screens": [
         "file3.ext",
         "file4.ext",
         "folder/"
-      ],
-      "all": [
-        "folder2/"
       ]
     },
     "country": {
