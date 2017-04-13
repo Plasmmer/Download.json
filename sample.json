@@ -5,6 +5,11 @@
         "file.ext",
         "file2.ext"
       ]
+    },
+    "country": {
+      "countryname": [
+        "file.ext"
+      ]
     }
   },
   "ignore": {
@@ -16,6 +21,11 @@
       ],
       "all": [
         "folder2/"
+      ]
+    },
+    "country": {
+      "countryname": [
+        "file.ext"
       ]
     }
   }
