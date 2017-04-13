@@ -1,14 +1,18 @@
 {
-  "platform": {
-    "screens": {
-      "ignore": [
+  "download": {
+    "platform": {
+      "screens": [
         "file.ext",
-        "file2.ext",
-        "folder/"
-      ],
-      "download": [
+        "file2.ext"
+      ]
+    }
+  },
+  "ignore": {
+    "platform": {
+      "screens": [
         "file3.ext",
-        "file4.ext"
+        "file4.ext",
+        "folder/"
       ]
     }
   }
