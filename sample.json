@@ -1,0 +1,15 @@
+{
+  "platform": {
+    "screens": {
+      "ignore": [
+        "file.ext",
+        "file2.ext",
+        "folder/"
+      ],
+      "download": [
+        "file3.ext",
+        "file4.ext"
+      ]
+    }
+  }
+}
